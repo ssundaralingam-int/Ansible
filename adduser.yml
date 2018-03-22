@@ -1,3 +1,5 @@
+this is testing mode
+
 - hosts: smtp2
   sudo: true
   tasks:
