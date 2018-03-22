@@ -1,0 +1,4 @@
+- hosts: webservers
+  sudo: true
+  tasks:
+    - script: /useradd.sh
